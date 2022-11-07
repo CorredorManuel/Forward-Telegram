@@ -1,6 +1,6 @@
 {
-    "name": "This is Telegram Messages Forwarder Userbot by @AbirHasan2005",
-    "description": "This is Telegram Messages Forwarder Userbot in Pyrogram by @AbirHasan2005",
+    "name": "This is Telegram Messages Forwarder Userbot by @TraderFull",
+    "description": "This is Telegram Messages Forwarder Userbot in Pyrogram by @TraderFull",
     "keywords": [
         "telegram",
         "messages",
@@ -8,7 +8,7 @@
         "userbot"
     ],
     "repository": "https://github.com/CorredorManuel/Forward-Telegram",
-    "website": "https://telegram.dog/AbirHasan2005",
+    "website": "https://telegram.dog/Traderfullgit",
     "success_url": "https://t.me/Discovery_Updates",
     "env": {
         "API_ID": {
